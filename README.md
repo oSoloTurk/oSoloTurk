@@ -87,7 +87,7 @@
 </p>
 <br/>
 
-## 📊 Github Stats (Expand to View)
+## 📊 Stats
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
@@ -115,4 +115,6 @@
 	<a href="https://linkedin.com/in/hakki-ceylan"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="#" name="I don't have facebook account"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
 	<a href="#" name="I don't have instagram account"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+<hr/>
+	<p align="center"><a href="https://www.hackerrank.com/hakki_ceylan">See me on the HackerRank</a></p>
 </p>
