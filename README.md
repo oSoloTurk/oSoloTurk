@@ -43,8 +43,13 @@
   <a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a>
+&emsp;   
+   <a href="https://www.php.net/">
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?logo=python&logoColor=white"/>
+  </a>
 &emsp; 
 </p>
+
 
 ### 👉 Frontend Development
 
@@ -83,6 +88,8 @@
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/></a>
   &emsp;
     <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"></a>
+  &emsp;    
+    <a href="https://www.mongodb.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=postgresql&logoColor=white"></a>
   &emsp;
 </p>
 <br/>
