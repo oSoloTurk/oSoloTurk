@@ -95,7 +95,7 @@
 <br/>
 
 ## 📊 Stats
-
+<!---
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p class="row">
@@ -110,7 +110,8 @@
   <br/>
    <a href="https://github.com/osoloturk"><img alt="oSoloTurk's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=osoloturk&custom_title=oSoloTurk's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-
+-->
+<i>Under Construction</i>
 
 <br/>
 
