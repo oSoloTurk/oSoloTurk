@@ -6,7 +6,7 @@
 
   * Currently, I'm a student of Computer Sciences at Sakarya University.
 
-  * I'm learning parallel programing and distributed programing right now.
+  * I also work at trendyol.com
 <h6 align="right">
   Updated 18.01.2022
   </h6>
