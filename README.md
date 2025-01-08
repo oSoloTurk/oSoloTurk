@@ -9,10 +9,6 @@ I started my coding journey in 2014, initially interested in the immersive world
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=osoloturk&label=oSoloTurk's%20Profile%20Views%20&color=dc143c&style=plastic" alt="osoloturk" /> </p>
 
-## 🔥 Streak Stats
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=osoloturk&theme=algolia" alt="osoloturk" /></p>
-
 
 ## 🙋‍♀️ Let's Connect
 
